@@ -71,9 +71,7 @@ In order to not include more complexity and configuration I will go for the defa
 
 ## Install and run 
 
-###  clone the repository
-    $ git clone git@github.com:waltervi/truenorth_cd_backend.git
-    $ cd truenorth_cd_backend
+After cloning the repository inside this directory (backend)
 
 ### Create a virtualenv and activate it::
 

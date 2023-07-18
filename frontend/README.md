@@ -36,7 +36,8 @@ For the datatable , I decided to go with -> https://react-data-table-component.n
 
 ## How to run the project
 
-$ cd truenorth_cd_frontend
+Inside this directory (frontend)
+
 $ npm install
 $ npm start
 
