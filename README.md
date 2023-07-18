@@ -1,6 +1,6 @@
 # python_react_calculator
 pay per use calculator written with python , flask and react.
-This was a coding challenge sent to my by a company that gave me a few days to finish.
+This was a coding challenge sent to my by a company that gave me a few days to finish it.
 
 # Coding challenge structure
 The challenge was originally in 2 separate repositories, one for the backend, another for the frontend.
