@@ -1,0 +1,27 @@
+[project]
+name = "app"
+version = "1.0.0"
+description = "..."
+readme = "README.rst"
+license = {text = "BSD-3-Clause"}
+dependencies = [
+    "flask",
+]
+
+[project.urls]
+Documentation = ""
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["error"]
+
+[tool.coverage.run]
+branch = true
+source = ["app", "tests"]
