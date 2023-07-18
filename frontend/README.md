@@ -38,8 +38,9 @@ For the datatable , I decided to go with -> https://react-data-table-component.n
 
 Inside this directory (frontend)
 
-$ npm install
-$ npm start
+    $ npm install
+    $ npm start
+    
 
 This will open a default browser on port 3000 
 The project needs the backed side working on port 5000
